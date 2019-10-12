@@ -1,0 +1,6 @@
+Albert	20
+Hellen	19
+Adam	18
+Adolph	20
+Alan	18
+Breton	20
