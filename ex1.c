@@ -1,4 +1,4 @@
-﻿#include<stdio.h>
+#include<stdio.h>
 #include <malloc.h>
 
 const char* path = "stu_Info.txt";
